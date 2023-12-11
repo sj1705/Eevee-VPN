@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473937239882",
+    "project_id": "eevevpn",
+    "storage_bucket": "eevevpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473937239882:android:9eb95820f7371d6322abb3",
+        "android_client_info": {
+          "package_name": "com.saumyaPurohit.EeveeVPN"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlur8z3OXBc2-99p-Pls3Z3AP4EziYoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
